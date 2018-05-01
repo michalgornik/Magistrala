@@ -1,0 +1,205 @@
+% $Id: uep.cbx,v 2.0 2017/05/31 12:00:00 kaw stable $
+
+\ProvidesFile{uep.cbx}
+[\abx@cbxid $Id: uep.cbx,v 2.0 2017/05/31 12:00:00 kaw stable $]
+
+\ExecuteBibliographyOptions{labelyear,uniquename,uniquelist,autocite=inline}
+\newbool{cbx:parens}
+
+
+\newbibmacro*{delim-label}[1]{%
+  \ifnumgreater{\value{listcount}}{\value{liststart}}
+    {\ifboolexpr{
+       test {\ifnumless{\value{listcount}}{\value{liststop}}}
+       or
+       test \ifmorenames
+     }
+       {\multinamedelim}
+       {\lbx@finalnamedelim{#1}}}
+    {}}
+
+\newbibmacro{name:newformat}{%
+	\textbf{\namepartfamily}  % #1->\namepartfamily, #2->\namepartfamilyi
+	\textbf{\namepartgiven}   % #3->\namepartgiven,  #4->\namepartgiveni
+	[prefix: \namepartprefix] % #5->\namepartprefix, #6->\namepartprefixi
+	[suffix: \namepartsuffix] % #7->\namepartsuffix, #8->\namepartsuffixi
+}
+
+\newbibmacro*{labeluep}{%
+  \ifuseprefix
+    {\usebibmacro{delim-label}{\namepartgiven\namepartfamily}%
+     \usebibmacro{name:hook}{\namepartgiven\namepartfamily}%
+     \ifblank{\namepartgiven}
+       {}
+       {\ifcapital
+          {\mkbibnameprefix{\MakeCapital{\namepartgiven}}\isdot}
+          {\mkbibnameprefix{\namepartgiven}\isdot}%
+        \ifpunctmark{'}{}{\bibnamedelimc}}}
+    {\usebibmacro{delim-label}{\namepartfamily}%
+     \usebibmacro{name:hook}{\namepartfamily}}%
+  \mkbibnamelast{\namepartfamily}}%
+
+\DeclareNameFormat{labelnameold}{%
+  \nameparts{#1}% split the name data, will not be necessary in future versions
+  \ifcase\value{uniquename}%
+    \usebibmacro{labeluep}%
+  \or
+    \ifuseprefix
+      {\usebibmacro{name:given-family}}
+      {\usebibmacro{name:given-family}}%
+  \or
+    \usebibmacro{name:given-family}%
+  \fi
+  \usebibmacro{name:andothers}}
+
+\DeclareNameFormat{labelname}{%
+  \ifcase\value{uniquename}%
+    \usebibmacro{name:family}
+      {\namepartfamily}
+      {\namepartgiven}
+      {\namepartprefix}
+      {\namepartsuffix}%
+  \or
+    \ifuseprefix
+      {\usebibmacro{name:family-given}
+        {\namepartfamily}
+        {\namepartgiveni}
+        {\namepartprefix}
+        {\namepartsuffixi}}
+      {\usebibmacro{name:family-given}
+        {\namepartfamily}
+        {\namepartgiveni}
+        {\namepartprefixi}
+        {\namepartsuffixi}}%
+  \or
+    \usebibmacro{name:family-given}
+      {\namepartfamily}
+      {\namepartgiven}
+      {\namepartprefix}
+      {\namepartsuffix}%
+  \fi
+  \usebibmacro{name:andothers}}
+
+\newbibmacro*{cite}{%
+  \iffieldundef{shorthand}
+    {\ifthenelse{\ifnameundef{labelname}\OR\iffieldundef{labelyear}}
+       {\usebibmacro{cite:label}%
+        \setunit{\addspace}}
+       {\printnames{labelname}%
+        \setunit{\nameyeardelim}}%
+     \usebibmacro{cite:labelyear+extrayear}}
+    {\usebibmacro{cite:shorthand}}}
+
+\newbibmacro*{citeyear}{%
+  \iffieldundef{shorthand}
+    {\iffieldundef{labelyear}
+       {\usebibmacro{cite:label}}
+       {\usebibmacro{cite:labelyear+extrayear}}}
+    {\usebibmacro{cite:shorthand}}}
+
+\newbibmacro*{textcite}{%
+  \ifnameundef{labelname}
+    {\iffieldundef{shorthand}
+       {\usebibmacro{cite:label}%
+	\setunit{%
+	  \global\booltrue{cbx:parens}%
+	  \addspace\bibopenbracket}%
+	\ifnumequal{\value{citecount}}{1}
+	  {\usebibmacro{prenote}}
+	  {}%
+	\usebibmacro{cite:labelyear+extrayear}}
+       {\usebibmacro{cite:shorthand}}}
+    {\printnames{labelname}%
+     \setunit{%
+       \global\booltrue{cbx:parens}%
+       \addspace\bibopenbracket}%
+     \ifnumequal{\value{citecount}}{1}
+       {\usebibmacro{prenote}}
+       {}%
+     \usebibmacro{citeyear}}}
+
+\newbibmacro*{cite:shorthand}{%
+  \printtext[bibhyperref]{\printfield{shorthand}}}
+
+\newbibmacro*{cite:label}{%
+  \iffieldundef{label}
+    {\printtext[bibhyperref]{\printfield[citetitle]{labeltitle}}}
+    {\printtext[bibhyperref]{\printfield{label}}}}
+
+\newbibmacro*{cite:labelyear+extrayear}{%
+  \iffieldundef{labelyear}
+    {}
+    {\printtext[bibhyperref]{%
+       \printfield{labelyear}%
+       \printfield{extrayear}}}}
+
+\newbibmacro*{textcite:postnote}{%
+  \iffieldundef{postnote}
+    {\ifbool{cbx:parens}
+       {\bibclosebracket}
+       {}}
+    {\ifbool{cbx:parens}
+       {\setunit{\postnotedelim}}
+       {\setunit{\addspace\bibopenbracket}}%
+     \printfield{postnote}\bibclosebracket}}
+
+\DeclareCiteCommand{\cite}[\mkbibbrackets]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \usebibmacro{cite}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand*{\cite}[\mkbibbrackets]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \usebibmacro{citeyear}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\parencite}[\mkbibparens]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \usebibmacro{cite}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand*{\parencite}[\mkbibparens]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \usebibmacro{citeyear}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\footcite}[\mkbibfootnote]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \usebibmacro{cite}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\footcitetext}[\mkbibfootnotetext]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \usebibmacro{cite}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\smartcite}[\iffootnote\mkbibparens\mkbibfootnote]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \usebibmacro{cite}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\textcite}
+  {\boolfalse{cbx:parens}}
+  {\usebibmacro{citeindex}%
+   \usebibmacro{textcite}}
+  {\ifbool{cbx:parens}
+     {\bibclosebracket\global\boolfalse{cbx:parens}}
+     {}%
+   \multicitedelim}
+  {\usebibmacro{textcite:postnote}}
+
+\endinput

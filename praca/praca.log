@@ -1,0 +1,2162 @@
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.5.1)  1 MAY 2018 12:13
+entering extended mode
+**./praca.tex
+(praca.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\repor
+t.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size1
+2.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\ba
+bel.sty"
+Package: babel 2018/02/14 3.18 The Babel package
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\sw
+itch.def"
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblo
+pts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-poli
+sh\polish.ldf"
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\ba
+bel.def"
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\xe
+babel.def"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\tx
+tbabel.def"))
+\bbl@dirlevel=\count89
+)
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen104
+\pl@down=\dimen105
+\pl@right=\dimen106
+\pl@temp=\dimen107
+)) (uep-support.sty
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\iftex\ifte
+x.sty"
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xltxtra\xl
+txtra.sty"
+Package: xltxtra 2016/01/21 v0.6 Improvements for the "XeLaTeX" format
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\
+ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontspec\f
+ontspec.sty"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages
+\xparse\xparse.sty"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\e
+xpl3.sty"
+Package: expl3 2018/03/05 L3 programming layer (loader) 
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\e
+xpl3-code.tex"
+Package: expl3 2018/03/05 L3 programming layer (code)
+\c_max_int=\count90
+\l_tmpa_int=\count91
+\l_tmpb_int=\count92
+\g_tmpa_int=\count93
+\g_tmpb_int=\count94
+\g__intarray_font_int=\count95
+\g__prg_map_int=\count96
+\c_log_iow=\count97
+\l_iow_line_count_int=\count98
+\l__iow_line_target_int=\count99
+\l__iow_one_indent_int=\count100
+\l__iow_indent_int=\count101
+\c_zero_dim=\dimen108
+\c_max_dim=\dimen109
+\l_tmpa_dim=\dimen110
+\l_tmpb_dim=\dimen111
+\g_tmpa_dim=\dimen112
+\g_tmpb_dim=\dimen113
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count102
+\c__fp_leading_shift_int=\count103
+\c__fp_middle_shift_int=\count104
+\c__fp_trailing_shift_int=\count105
+\c__fp_big_leading_shift_int=\count106
+\c__fp_big_middle_shift_int=\count107
+\c__fp_big_trailing_shift_int=\count108
+\c__fp_Bigg_leading_shift_int=\count109
+\c__fp_Bigg_middle_shift_int=\count110
+\c__fp_Bigg_trailing_shift_int=\count111
+\l__sort_length_int=\count112
+\l__sort_min_int=\count113
+\l__sort_top_int=\count114
+\l__sort_max_int=\count115
+\l__sort_true_max_int=\count116
+\l__sort_block_int=\count117
+\l__sort_begin_int=\count118
+\l__sort_end_int=\count119
+\l__sort_A_int=\count120
+\l__sort_B_int=\count121
+\l__sort_C_int=\count122
+\l__tl_build_start_index_int=\count123
+\l__tl_build_index_int=\count124
+\l__tl_analysis_normal_int=\count125
+\l__tl_analysis_index_int=\count126
+\l__tl_analysis_nesting_int=\count127
+\l__tl_analysis_type_int=\count128
+\l__regex_internal_a_int=\count129
+\l__regex_internal_b_int=\count130
+\l__regex_internal_c_int=\count131
+\l__regex_balance_int=\count132
+\l__regex_group_level_int=\count133
+\l__regex_mode_int=\count134
+\c__regex_cs_in_class_mode_int=\count135
+\c__regex_cs_mode_int=\count136
+\l__regex_catcodes_int=\count137
+\l__regex_default_catcodes_int=\count138
+\c__regex_catcode_L_int=\count139
+\c__regex_catcode_O_int=\count140
+\c__regex_catcode_A_int=\count141
+\c__regex_all_catcodes_int=\count142
+\l__regex_show_lines_int=\count143
+\l__regex_min_state_int=\count144
+\l__regex_max_state_int=\count145
+\l__regex_left_state_int=\count146
+\l__regex_right_state_int=\count147
+\l__regex_capturing_group_int=\count148
+\l__regex_min_pos_int=\count149
+\l__regex_max_pos_int=\count150
+\l__regex_curr_pos_int=\count151
+\l__regex_start_pos_int=\count152
+\l__regex_success_pos_int=\count153
+\l__regex_curr_char_int=\count154
+\l__regex_curr_catcode_int=\count155
+\l__regex_last_char_int=\count156
+\l__regex_case_changed_char_int=\count157
+\l__regex_curr_state_int=\count158
+\l__regex_step_int=\count159
+\l__regex_min_active_int=\count160
+\l__regex_max_active_int=\count161
+\l__regex_replacement_csnames_int=\count162
+\l__regex_match_count_int=\count163
+\l__regex_min_submatch_int=\count164
+\l__regex_submatch_int=\count165
+\l__regex_zeroth_submatch_int=\count166
+\g__regex_trace_regex_int=\count167
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+\l__box_top_dim=\dimen114
+\l__box_bottom_dim=\dimen115
+\l__box_left_dim=\dimen116
+\l__box_right_dim=\dimen117
+\l__box_top_new_dim=\dimen118
+\l__box_bottom_new_dim=\dimen119
+\l__box_left_new_dim=\dimen120
+\l__box_right_new_dim=\dimen121
+\l__box_internal_box=\box31
+\l__coffin_internal_box=\box32
+\l__coffin_internal_dim=\dimen122
+\l__coffin_offset_x_dim=\dimen123
+\l__coffin_offset_y_dim=\dimen124
+\l__coffin_x_dim=\dimen125
+\l__coffin_y_dim=\dimen126
+\l__coffin_x_prime_dim=\dimen127
+\l__coffin_y_prime_dim=\dimen128
+\c_empty_coffin=\box33
+\l__coffin_aligned_coffin=\box34
+\l__coffin_aligned_internal_coffin=\box35
+\l_tmpa_coffin=\box36
+\l_tmpb_coffin=\box37
+\l__coffin_display_coffin=\box38
+\l__coffin_display_coord_coffin=\box39
+\l__coffin_display_pole_coffin=\box40
+\l__coffin_display_offset_dim=\dimen129
+\l__coffin_display_x_dim=\dimen130
+\l__coffin_display_y_dim=\dimen131
+\l__coffin_bounding_shift_dim=\dimen132
+\l__coffin_left_corner_dim=\dimen133
+\l__coffin_right_corner_dim=\dimen134
+\l__coffin_bottom_corner_dim=\dimen135
+\l__coffin_top_corner_dim=\dimen136
+\l__coffin_scaled_total_height_dim=\dimen137
+\l__coffin_scaled_width_dim=\dimen138
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l
+3xdvipdfmx.def"
+File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count168
+))
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count169
+\g__xparse_grabber_int=\count170
+\l__xparse_m_args_int=\count171
+\l__xparse_mandatory_args_int=\count172
+\l__xparse_v_nesting_int=\count173
+)
+Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontspec\f
+ontspec-xetex.sty"
+Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count174
+\l__fontspec_language_int=\count175
+\l__fontspec_strnum_int=\count176
+\l__fontspec_tmp_int=\count177
+\l__fontspec_em_int=\count178
+\l__fontspec_emdef_int=\count179
+\l__fontspec_strong_int=\count180
+\l__fontspec_strongdef_int=\count181
+\l__fontspec_tmpa_dim=\dimen139
+\l__fontspec_tmpb_dim=\dimen140
+\l__fontspec_tmpc_dim=\dimen141
+\g__file_internal_ior=\read1
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fonte
+nc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\tuenc
+.def"
+File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 542.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 546.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 550.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 554.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 558.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 562.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 570.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 574.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 578.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 582.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 586.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 590.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeature with sig. 'm' on line 594.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 598.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 602.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 606.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newICUfeature with sig. 'mmm' on line 610.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 614.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 618.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 622.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 626.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 630.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 634.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3632.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3638.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3644.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3650.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3656.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3681.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3687.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareAccent with sig. 'm' on line 3693.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareCommand with sig. 'm' on line 3699.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3706.
+.................................................
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontspec\f
+ontspec.cfg")
+LaTeX Info: Redefining \itshape on input line 3891.
+LaTeX Info: Redefining \slshape on input line 3896.
+LaTeX Info: Redefining \scshape on input line 3901.
+LaTeX Info: Redefining \upshape on input line 3906.
+LaTeX Info: Redefining \em on input line 3936.
+LaTeX Info: Redefining \emph on input line 3961.
+LaTeX Info: Redefining \- on input line 4015.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 4110.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 4114.
+.................................................
+))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\realscript
+s\realscripts.sty"
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
+ts
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fakesubscript with sig. 'm' on line 19.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fakesuperscript with sig. 'm' on line 22.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \textsubscript with sig. 's' on line 25.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \textsuperscript with sig. 's' on line 28.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \realsubscript with sig. 'm' on line 45.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \realsuperscript with sig. 'm' on line 60.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textsubsuperscript with sig. 'sO{l}mm' on line 138.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textsupersubscript with sig. 'sO{l}mm' on line 143.
+.................................................
+\subsupersep=\dimen142
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\metalogo\m
+etalogo.sty"
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\g
+raphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\k
+eyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\g
+raphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\t
+rig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-c
+fg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-d
+ef\xetex.def"
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+\xl@everylogo=\toks15
+\xl@@everylogo=\toks16
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\l__xetex_show_hyphens_wrapping_box=\box41
+\l__xetex_show_hyphens_temp_box=\box42
+\l__xetex_show_hyphens_final_box=\box43
+\g__xetex_show_hyphens_word_box=\box44
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\mat
+hptmx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+\g__fontspec_family_PalatinoLinotype_int=\count182
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'PalatinoLinotype(0)' created for font 'Palatino Linotype' with
+. options [Mapping=tex-text,Ligatures=TeX,Ligatures=TeX,Ligatures=TeX].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"Palatino
+. Linotype/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Palatino
+. Linotype/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.: <->"Palatino
+. Linotype/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Palatino
+. Linotype/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.: <->"Palatino
+. Linotype/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Palatino
+. Linotype/I/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold italic' (bx/it) with NFSS spec.: <->"Palatino
+. Linotype/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Palatino
+. Linotype/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+.................................................
+LaTeX Info: Redefining \rmfamily on input line 23.
+\g__fontspec_family_Arial_int=\count183
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Arial(0)' created for font 'Arial' with options
+. [Mapping=tex-text,Ligatures=TeX,Ligatures=TeX].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"Arial/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"Arial/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"Arial/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->"Arial/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.:
+. <->"Arial/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->"Arial/I/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"Arial/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. <->"Arial/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+.................................................
+LaTeX Info: Redefining \sffamily on input line 28.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\inconsolat
+a\inconsolata.fontspec")
+\g__fontspec_family_inconsolata_int=\count184
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'inconsolata(0)' created for font 'inconsolata' with options
+. [Mapping=tex-text,Ligatures=TeX,WordSpace={1,0,0},HyphenChar=None,Punctuation
+Space=WordSpace,Extension
+. = .otf,UprightFont = Inconsolatazi4-Regular,BoldFont =
+. Inconsolatazi4-Bold,Scale=0.9].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->s*[0.9]"[Inconsolatazi4-Regular.otf]/OT:script=latn;language=DFLT;mapping=
+tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
+. \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
+. \tex_hyphenchar:D \font =-1\scan_stop: 
+. - 'bold' (bx/n) with NFSS spec.:
+. <->s*[0.9]"[Inconsolatazi4-Bold.otf]/OT:script=latn;language=DFLT;mapping=tex
+-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. and font adjustment code:
+. \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
+. \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
+. \tex_hyphenchar:D \font =-1\scan_stop: 
+.................................................
+LaTeX Info: Redefining \ttfamily on input line 29.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\makei
+dx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mdwtools\m
+dwlist.sty"
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\s
+etspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\g
+eometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count185
+\Gm@cntv=\count186
+\c@Gm@tempcnt=\count187
+\Gm@bindingoffset=\dimen145
+\Gm@wd@mp=\dimen146
+\Gm@odd@mp=\dimen147
+\Gm@even@mp=\dimen148
+\Gm@layoutwidth=\dimen149
+\Gm@layoutheight=\dimen150
+\Gm@layouthoffset=\dimen151
+\Gm@layoutvoffset=\dimen152
+\Gm@dimlist=\toks17
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\xelatex\xetexcon
+fig\geometry.cfg"))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\long
+table.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count188
+\LTcapwidth=\dimen153
+\LT@head=\box45
+\LT@firsthead=\box46
+\LT@foot=\box47
+\LT@lastfoot=\box48
+\LT@cols=\count189
+\LT@rows=\count190
+\c@LT@tables=\count191
+\c@LT@chunks=\count192
+\LT@p@ftn=\toks18
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\floatflt\f
+loatflt.sty"
+Package: floatflt 1997/07/16 v. 1.31
+\c@OptionTest=\count193
+\figbox=\box49
+\tabbox=\box50
+\pagebox=\box51
+\ffigcount=\count194
+\ftabcount=\count195
+\fftest=\count196
+\hangcount=\count197
+\nosuccesstryfig=\count198
+\nosuccesstrytab=\count199
+\figgutter=\dimen154
+\tabgutter=\dimen155
+\htdone=\dimen156
+\pageht=\dimen157
+\startpageht=\dimen158
+\tabbredd=\dimen159
+\floatfltwidth=\dimen160
+\fltitemwidth=\dimen161
+\outputpretest=\toks19
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\mult
+icol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count266
+\mult@box=\box52
+\multicol@leftmargin=\dimen162
+\c@unbalance=\count267
+\c@collectmore=\count268
+\doublecol@number=\count269
+\multicoltolerance=\count270
+\multicolpretolerance=\count271
+\full@width=\dimen163
+\page@free=\dimen164
+\premulticols=\dimen165
+\postmulticols=\dimen166
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
+\partial@page=\box53
+\last@line=\box54
+\maxbalancingoverflow=\dimen167
+\mult@rightbox=\box55
+\mult@grightbox=\box56
+\mult@gfirstbox=\box57
+\mult@firstbox=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\c@columnbadness=\count272
+\c@finalcolumnbadness=\count273
+\last@try=\dimen168
+\multicolovershoot=\dimen169
+\multicolundershoot=\dimen170
+\mult@nat@firstbox=\box76
+\colbreak@box=\box77
+\mc@col@check@num=\count274
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabu
+larx.sty"
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\arra
+y.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen171
+\extrarowheight=\dimen172
+\NC@list=\toks20
+\extratabsurround=\skip55
+\backup@length=\skip56
+)
+\TX@col@width=\dimen173
+\TX@old@table=\dimen174
+\TX@old@col=\dimen175
+\TX@target=\dimen176
+\TX@delta=\dimen177
+\TX@cols=\count275
+\TX@ftn=\toks21
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\m
+ultirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip57
+\multirow@cntb=\count276
+\multirow@dima=\skip58
+\bigstrutjot=\dimen178
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\r
+otating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthe
+n.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count277
+\rotFPtop=\skip59
+\rotFPbot=\skip60
+\rot@float@box=\box78
+\rot@mess@toks=\toks22
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\b
+ooktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen179
+\lightrulewidth=\dimen180
+\cmidrulewidth=\dimen181
+\belowrulesep=\dimen182
+\belowbottomsep=\dimen183
+\aboverulesep=\dimen184
+\abovetopsep=\dimen185
+\cmidrulesep=\dimen186
+\cmidrulekern=\dimen187
+\defaultaddspace=\dimen188
+\@cmidla=\count278
+\@cmidlb=\count279
+\@aboverulesep=\dimen189
+\@belowrulesep=\dimen190
+\@thisruleclass=\count280
+\@lastruleclass=\count281
+\@thisrulewidth=\dimen191
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ulem\ulem.
+sty"
+\UL@box=\box79
+\UL@hyphenbox=\box80
+\UL@skip=\skip61
+\UL@hook=\toks23
+\UL@height=\dimen192
+\UL@pe=\count282
+\UL@pixel=\dimen193
+\ULC@box=\box81
+Package: ulem 2012/05/18
+\ULdepth=\dimen194
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-scrip
+t\scrextend.sty"
+Package: scrextend 2018/03/30 v3.25 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-scrip
+t\scrkbase.sty"
+Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-scrip
+t\scrbase.sty"
+Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-scrip
+t\scrlfile.sty"
+Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
+)))
+Package scrextend Info: unexpected definition of `\@makefnmark'.
+(scrextend)             Trying to patch it on input line 1544.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\e
+toolbox.sty"
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count283
+)
+Package scrextend Info: patch seems to be successfull on input line 1544.
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\ca
+ption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\ca
+ption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen195
+\captionmargin@=\dimen196
+\captionwidth=\dimen197
+\caption@tempdima=\dimen198
+\caption@indent=\dimen199
+\caption@parindent=\dimen256
+\caption@hangindent=\dimen257
+)
+\c@ContinuedFloat=\count284
+Package caption Info: floatflt package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\lt
+caption.sty"
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xco
+lor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-c
+fg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\d
+vipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\comment\co
+mment.sty"
+\CommentStream=\write3
+ Excluding comment 'comment')
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\framed\fra
+med.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip62
+\fb@frw=\dimen258
+\fb@frh=\dimen259
+\FrameRule=\dimen260
+\FrameSep=\dimen261
+) Special comment 'tiplength' Special comment 'tipcontent'
+Special comment 'tiptask'
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\h
+yperref.sty"
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\a
+uxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\k
+voptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen262
+\Hy@linkcounter=\count285
+\Hy@pagecounter=\count286
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\p
+d1enc.def"
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count287
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\h
+yperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
+Package hyperref Info: Option `plainpages' set `false' on input line 4383.
+Package hyperref Info: Option `hyperindex' set `true' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count288
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.st
+y"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen263
+\Fld@menulength=\count289
+\Field@Width=\dimen264
+\Fld@charsize=\dimen265
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring ON on input line 6387.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count290
+\c@Item=\count291
+\c@Hfootnote=\count292
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\h
+xetex.def"
+File: hxetex.def 2018/02/06 v6.86b Hyperref driver for XeTeX
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\p
+uenc.def"
+File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\stringenc.sty"
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box82
+\c@Hy@AnnotLevel=\count293
+\HyField@AnnotCount=\count294
+\Fld@listcount=\count295
+\c@bookmark@seq@number=\count296
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\r
+erunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip63
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\
+todonotes.sty"
+Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xk
+eyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\
+xkeyval.tex"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\
+xkvutils.tex"
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count297
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\fronte
+ndlayer\tikz.sty"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basicl
+ayer\pgf.sty"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilit
+ies\pgfrcs.sty"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfutil-common.tex"
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen266
+\pgfutil@tempdimb=\dimen267
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfutil-common-lists.tex"))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfutil-latex.def"
+\pgfutil@abb=\box83
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysh
+i.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basicl
+ayer\pgfcore.sty"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\system
+layer\pgfsys.sty"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks29
+))
+\pgf@x=\dimen268
+\pgf@y=\dimen269
+\pgf@xa=\dimen270
+\pgf@ya=\dimen271
+\pgf@xb=\dimen272
+\pgf@yb=\dimen273
+\pgf@xc=\dimen274
+\pgf@yc=\dimen275
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count298
+\c@pgf@countb=\count299
+\c@pgf@countc=\count300
+\c@pgf@countd=\count301
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgfsys-xetex.def"
+File: pgfsys-xetex.def 2014/07/09  (rcs-revision 1.11)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgfsys-dvipdfmx.def"
+File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)
+\pgfsys@objnum=\count302
+)))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count303
+\pgfsyssoftpath@bigbuffer@items=\count304
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmath.code.tex"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathcalc.code.tex"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathutil.code.tex")
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen276
+\pgfmath@count=\count305
+\pgfmath@box=\box84
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.code.tex"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.basic.code.tex")
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.trigonometric.code.tex")
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.random.code.tex")
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.comparison.code.tex")
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.base.code.tex")
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.round.code.tex")
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.misc.code.tex")
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.integerarithmetics.code.tex")))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count306
+))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen277
+\pgf@picmaxx=\dimen278
+\pgf@picminy=\dimen279
+\pgf@picmaxy=\dimen280
+\pgf@pathminx=\dimen281
+\pgf@pathmaxx=\dimen282
+\pgf@pathminy=\dimen283
+\pgf@pathmaxy=\dimen284
+\pgf@xx=\dimen285
+\pgf@xy=\dimen286
+\pgf@yx=\dimen287
+\pgf@yy=\dimen288
+\pgf@zx=\dimen289
+\pgf@zy=\dimen290
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen291
+\pgf@path@lasty=\dimen292
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen293
+\pgf@shorten@start@additional=\dimen294
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box85
+\pgf@hbox=\box86
+\pgf@layerbox@main=\box87
+\pgf@picture@serial@count=\count307
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen295
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen296
+\pgf@pt@y=\dimen297
+\pgf@pt@temp=\dimen298
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen299
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen300
+\pgf@sys@shading@range@num=\count308
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box88
+))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modu
+les\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box89
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modu
+les\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compat
+ibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen301
+\pgf@nodesepend=\dimen302
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compat
+ibility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilit
+ies\pgffor.sty"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilit
+ies\pgfkeys.sty"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfkeys.code.tex"))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\p
+gfmath.sty"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmath.code.tex"))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmath.code.tex")
+\pgffor@iter=\dimen303
+\pgffor@skip=\dimen304
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\fron
+tendlayer\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libr
+aries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count309
+\pgfplotmarksize=\dimen305
+)
+\tikz@lastx=\dimen306
+\tikz@lasty=\dimen307
+\tikz@lastxsaved=\dimen308
+\tikz@lastysaved=\dimen309
+\tikzleveldistance=\dimen310
+\tikzsiblingdistance=\dimen311
+\tikz@figbox=\box90
+\tikz@figbox@bg=\box91
+\tikz@tempbox=\box92
+\tikz@tempbox@bg=\box93
+\tikztreelevel=\count310
+\tikznumberofchildren=\count311
+\tikznumberofcurrentchild=\count312
+\tikz@fig@count=\count313
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modu
+les\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count314
+\pgfmatrixcurrentcolumn=\count315
+\pgf@matrix@numberofcolumns=\count316
+)
+\tikz@expandcount=\count317
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\fron
+tendlayer\tikz\libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\fron
+tendlayer\tikz\libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc
+.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count318
+\calc@Bcount=\count319
+\calc@Adimen=\dimen312
+\calc@Bdimen=\dimen313
+\calc@Askip=\skip64
+\calc@Bskip=\skip65
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count320
+\calc@Cskip=\skip66
+)
+\c@@todonotes@numberoftodonotes=\count321
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\b
+iblatex.sty"
+Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\log
+req.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count322
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\log
+req.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xstring\xs
+tring.sty"
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xstring\
+xstring.tex"
+\@xs@message=\write5
+\integerpart=\count323
+\decimalpart=\count324
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count325
+\c@listtotal=\count326
+\c@listcount=\count327
+\c@liststart=\count328
+\c@liststop=\count329
+\c@citecount=\count330
+\c@citetotal=\count331
+\c@multicitecount=\count332
+\c@multicitetotal=\count333
+\c@instcount=\count334
+\c@maxnames=\count335
+\c@minnames=\count336
+\c@maxitems=\count337
+\c@minitems=\count338
+\c@citecounter=\count339
+\c@savedcitecounter=\count340
+\c@uniquelist=\count341
+\c@uniquename=\count342
+\c@refsection=\count343
+\c@refsegment=\count344
+\c@maxextratitle=\count345
+\c@maxextratitleyear=\count346
+\c@maxextradate=\count347
+\c@maxextraalpha=\count348
+\c@abbrvpenalty=\count349
+\c@highnamepenalty=\count350
+\c@lownamepenalty=\count351
+\c@maxparens=\count352
+\c@parenlevel=\count353
+\blx@tempcnta=\count354
+\blx@tempcntb=\count355
+\blx@tempcntc=\count356
+\blx@maxsection=\count357
+\blx@maxsegment@0=\count358
+\blx@notetype=\count359
+\blx@parenlevel@text=\count360
+\blx@parenlevel@foot=\count361
+\blx@sectionciteorder@0=\count362
+\labelnumberwidth=\skip67
+\labelalphawidth=\skip68
+\biblabelsep=\skip69
+\bibitemsep=\skip70
+\bibnamesep=\skip71
+\bibinitsep=\skip72
+\bibparsep=\skip73
+\bibhang=\skip74
+\blx@bcfin=\read3
+\blx@bcfout=\write6
+\c@mincomprange=\count363
+\c@maxcomprange=\count364
+\c@mincompwidth=\count365
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\b
+lx-dm.def"
+File: blx-dm.def 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'uep.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count366
+\c@savedafterword=\count367
+\c@annotator=\count368
+\c@savedannotator=\count369
+\c@author=\count370
+\c@savedauthor=\count371
+\c@bookauthor=\count372
+\c@savedbookauthor=\count373
+\c@commentator=\count374
+\c@savedcommentator=\count375
+\c@editor=\count376
+\c@savededitor=\count377
+\c@editora=\count378
+\c@savededitora=\count379
+\c@editorb=\count380
+\c@savededitorb=\count381
+\c@editorc=\count382
+\c@savededitorc=\count383
+\c@foreword=\count384
+\c@savedforeword=\count385
+\c@holder=\count386
+\c@savedholder=\count387
+\c@introduction=\count388
+\c@savedintroduction=\count389
+\c@namea=\count390
+\c@savednamea=\count391
+\c@nameb=\count392
+\c@savednameb=\count393
+\c@namec=\count394
+\c@savednamec=\count395
+\c@translator=\count396
+\c@savedtranslator=\count397
+\c@shortauthor=\count398
+\c@savedshortauthor=\count399
+\c@shorteditor=\count400
+\c@savedshorteditor=\count401
+\c@labelname=\count402
+\c@savedlabelname=\count403
+\c@institution=\count404
+\c@savedinstitution=\count405
+\c@lista=\count406
+\c@savedlista=\count407
+\c@listb=\count408
+\c@savedlistb=\count409
+\c@listc=\count410
+\c@savedlistc=\count411
+\c@listd=\count412
+\c@savedlistd=\count413
+\c@liste=\count414
+\c@savedliste=\count415
+\c@listf=\count416
+\c@savedlistf=\count417
+\c@location=\count418
+\c@savedlocation=\count419
+\c@organization=\count420
+\c@savedorganization=\count421
+\c@origlocation=\count422
+\c@savedoriglocation=\count423
+\c@origpublisher=\count424
+\c@savedorigpublisher=\count425
+\c@publisher=\count426
+\c@savedpublisher=\count427
+\c@language=\count428
+\c@savedlanguage=\count429
+\c@origlanguage=\count430
+\c@savedoriglanguage=\count431
+\c@pageref=\count432
+\c@savedpageref=\count433
+\shorthandwidth=\skip75
+\shortjournalwidth=\skip76
+\shortserieswidth=\skip77
+\shorttitlewidth=\skip78
+\shortauthorwidth=\skip79
+\shorteditorwidth=\skip80
+\locallabelnumberwidth=\skip81
+\locallabelalphawidth=\skip82
+\localshorthandwidth=\skip83
+\localshortjournalwidth=\skip84
+\localshortserieswidth=\skip85
+\localshorttitlewidth=\skip86
+\localshortauthorwidth=\skip87
+\localshorteditorwidth=\skip88
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\b
+lx-unicode.def")
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\b
+lx-compat.def"
+File: blx-compat.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\b
+iblatex.def"
+File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+\c@textcitecount=\count434
+\c@textcitetotal=\count435
+\c@textcitemaxnames=\count436
+\c@biburlnumpenalty=\count437
+\c@biburlucpenalty=\count438
+\c@biburllcpenalty=\count439
+\c@smartand=\count440
+)
+Package biblatex Info: Trying to load bibliography style 'uep'...
+Package biblatex Info: ... file 'uep.bbx' found.
+ (uep.bbx
+File: uep.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)$Id: uep.bbx,
+v 1.0 2017/05/31 12:00:00 kaw exp $
+Package biblatex Info: Trying to load bibliography style 'uep-standard'...
+Package biblatex Info: ... file 'uep-standard.bbx' found.
+ (uep-standard.bbx
+File: uep-standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)$Id:
+ uep-standard.bbx,v 2.0 2017/05/31 12:00:00 kaw stable $
+)
+
+Package biblatex Warning: 'labelyear' option is deprecated.
+(biblatex)                Please use 'labeldateparts' instead.
+
+)
+Package biblatex Info: Trying to load citation style 'uep'...
+Package biblatex Info: ... file 'uep.cbx' found.
+ (uep.cbx
+File: uep.cbx 2018/03/04 v3.11 biblatex citation style (PK/MW)$Id: uep.cbx,v 2.
+0 2017/05/31 12:00:00 kaw stable $
+
+
+Package biblatex Warning: 'labelyear' option is deprecated.
+(biblatex)                Please use 'labeldateparts' instead.
+
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\b
+iblatex.cfg"
+File: biblatex.cfg 
+)
+
+Package biblatex Warning: 'edtf' date format specifier is deprecated.
+(biblatex)                Use 'iso' instead.
+
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xpatch\xpa
+tch.sty"
+Package: xpatch 2012/10/02 v0.3 Extending etoolbox patching commands
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchcmd with sig. '' on line 125.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretocmd with sig. '' on line 126.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptocmd with sig. '' on line 127.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowcmd with sig. '' on line 128.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchbibmacro with sig. 'm' on line 131.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretobibmacro with sig. 'm' on line 133.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptobibmacro with sig. 'm' on line 135.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowbibmacro with sig. 'm' on line 137.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchfieldformat with sig. 'O{*}m' on line 139.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretofieldformat with sig. 'O{*}m' on line 141.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptofieldformat with sig. 'O{*}m' on line 143.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowfieldformat with sig. 'O{*}m' on line 145.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchnameformat with sig. 'O{*}m' on line 147.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretonameformat with sig. 'O{*}m' on line 149.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptonameformat with sig. 'O{*}m' on line 151.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshownameformat with sig. 'O{*}m' on line 153.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchlistformat with sig. 'O{*}m' on line 155.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretolistformat with sig. 'O{*}m' on line 157.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptolistformat with sig. 'O{*}m' on line 159.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowlistformat with sig. 'O{*}m' on line 161.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchindexfieldformat with sig. 'O{*}m' on line 163.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretoindexfieldformat with sig. 'O{*}m' on line 165.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptoindexfieldformat with sig. 'O{*}m' on line 167.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowindexfieldformat with sig. 'O{*}m' on line 169.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchindexnameformat with sig. 'O{*}m' on line 171.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretoindexnameformat with sig. 'O{*}m' on line 173.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptoindexnameformat with sig. 'O{*}m' on line 175.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowindexnameformat with sig. 'O{*}m' on line 177.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchindexlistformat with sig. 'O{*}m' on line 179.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretoindexlistformat with sig. 'O{*}m' on line 181.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xappindextolistformat with sig. 'O{*}m' on line 183.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowindexlistformat with sig. 'O{*}m' on line 185.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchbibdriver with sig. 'm' on line 187.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretobibdriver with sig. 'm' on line 189.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptobibdriver with sig. 'm' on line 191.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowbibdriver with sig. 'm' on line 193.
+.................................................
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+istings.sty"
+\lst@mode=\count441
+\lst@gtempboxa=\box94
+\lst@token=\toks38
+\lst@length=\count442
+\lst@currlwidth=\dimen314
+\lst@column=\count443
+\lst@pos=\count444
+\lst@lostspace=\dimen315
+\lst@width=\dimen316
+\lst@newlines=\count445
+\lst@lineno=\count446
+\lst@maxwidth=\dimen317
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+stmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count447
+\lst@skipnumbers=\count448
+\lst@framebox=\box95
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+istings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+stlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+stmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+stlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\es
+o-pic.sty"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+))
+\@indexfile=\write7
+\openout7 = `praca.idx'.
+
+
+Writing index file praca.idx
+Package biblatex Info: Trying to load language 'polish'...
+Package biblatex Info: ... file 'polish.lbx' found.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\l
+bx\polish.lbx"
+File: polish.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count449
+\@quotereset=\count450
+
+Package biblatex Warning: Conflicting options.
+(biblatex)                'urldate=iso' requires 'seconds=true'.
+(biblatex)                Setting 'seconds=true' on input line 26.
+
+(praca.aux)
+\openout1 = `praca.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+\big@size=\dimen318
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=674.33032pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-33.05495pt
+* \headheight=12.0pt
+* \headsep=34.14322pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box96
+Package hyperref Info: Link coloring ON on input line 26.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\n
+ameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count451
+)
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
+ (praca.out) (praca.out)
+\@outlinefile=\write8
+\openout8 = `praca.out'.
+
+
+ABD: EveryShipout initializing macros
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout6 = `praca.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'praca.bbl' not found.
+
+No file praca.bbl.
+Package biblatex Info: Reference section=0 on input line 26.
+Package biblatex Info: Reference segment=0 on input line 26.
+\c@lstlisting=\count452
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\se-ascii-print.def"
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+)
+File: uep-header.png Graphic file (type bmp)
+<uep-header.png>
+ [1
+
+] (praca.toc
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 6.
+
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1
+ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 6.
+
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\oml
+ztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 6.
+
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\oms
+ztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 6.
+
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omx
+ztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 6.
+
+("C:\Users\Michal Gornik\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1
+ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+)
+\tf@toc=\write9
+\openout9 = `praca.toc'.
+
+ [1
+
+
+] (wstep.tex
+Rozdzia\l  1.
+) (rozdzial2.tex [1
+
+
+]
+Rozdzia\l  2.
+) (rozdzial3.tex [2
+
+]
+Rozdzia\l  3.
+) (implementacja.tex [3
+
+]
+Rozdzia\l  4.
+) (podsumowanie.tex [4
+
+]
+Rozdzia\l  5.
+)
+
+LaTeX Warning: Empty bibliography on input line 42.
+
+[5
+
+] (praca.lot)
+\tf@lot=\write10
+\openout10 = `praca.lot'.
+
+ [6
+
+] (praca.lof)
+\tf@lof=\write11
+\openout11 = `praca.lof'.
+
+ [7
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
+ (praca.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 45.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 45.
+Package logreq Info: Writing requests to 'praca.run.xml'.
+\openout1 = `praca.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 40483 strings out of 427836
+ 777382 string characters out of 3146999
+ 1250317 words of memory out of 3000000
+ 43922 multiletter control sequences out of 15000+200000
+ 539084 words of font info for 69 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 80i,10n,74p,10428b,3582s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on praca.pdf (9 pages).

@@ -1,0 +1,45 @@
+% !TeX encoding = UTF-8
+% !TeX spellcheck = en_GB
+% !TeX program = xelatex
+% !TeX program = biber
+% !TeX TXS-program:bibliography = txs:///biber
+% !TeX TXS-program:view = txs:///view-pdf-internal --embedded
+
+\documentclass[12pt, a4paper]{report}
+\usepackage[polish]{babel}
+
+\usepackage{uep-support}
+
+\def\student{Michał Górnik}
+\def\promotor{}
+\def\rodzaj{Praca magisterska}
+\def\titlepl{tytul}
+\def\titleen{Title}
+\def\rok{2019}
+
+
+
+\addbibresource{bibliografia.bib}
+
+\makeindex
+
+\begin{document}
+\pagenumbering{alph}
+\maketitle
+\clearpage\pagenumbering{roman}
+%\printindex
+\newpage
+\tableofcontents
+%\listoftodos[Uwagi do pracy]
+\clearpage\pagenumbering{arabic}
+
+\input{wstep}
+\input{rozdzial2}
+\input{rozdzial3}
+\input{implementacja}
+\input{podsumowanie}
+
+\printbibliography
+\listoftables
+\listoffigures
+\end{document}
